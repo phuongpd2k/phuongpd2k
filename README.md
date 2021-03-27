@@ -1,6 +1,6 @@
 <h1 align="center">## Hi there 👋, I'm Duy Phương aka Zuy Fun</h1>
-#### Now i'm studying in FPT University
- ![Now i'm studying in FPT University](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+![Now i'm studying in FPT University](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 <p align="center">
 I made this to introduce about my self
 Skills: VUE JS / REACT / JS / HTML / CSS
