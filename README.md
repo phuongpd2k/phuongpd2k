@@ -1,9 +1,9 @@
 <h1 align="center"> Hi there 👋, I'm Duy Phương aka Zuy Fun</h1>
 
 <div align="center">
-<p>Skills: Java / MS SQL Server / JS / HTML / CSS</p>
-<p>- 🔭 I’m currently studying in FPT University. </p>
 
+<p>- 🔭 I’m currently studying in FPT University. </p>
+<p>Skills: Java / MS SQL Server / JS / HTML / CSS</p>
 <div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuyfun)](https://github.com/anuraghazra/github-readme-stats)
