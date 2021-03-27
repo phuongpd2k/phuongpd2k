@@ -13,10 +13,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuyfun)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zuyfun)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/zuyfun)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zuyfun)  
 
-![Profile views](https://gpvc.arturio.dev/zuyfun)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zuyfun)  
