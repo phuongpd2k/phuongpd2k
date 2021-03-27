@@ -1,7 +1,6 @@
-<h1 align="center">## Hi there 👋, I'm Duy Phương aka Zuy Fun</h1>
+<h1 align="center"> Hi there 👋, I'm Duy Phương aka Zuy Fun</h1>
 
 <div align="center">
-<p>I made this to introduce about my self.</p>
 <p>Skills: Java / MS SQL Server / JS / HTML / CSS</p>
 <p>- 🔭 I’m currently studying in FPT University. </p>
 
