@@ -1,10 +1,10 @@
-### Hi there 👋, my name is Duy Phương
-#### Now i'm studying in FPT University
+## Hi there 👋, my name is Duy Phương
+Now i'm studying in FPT University
 ![Now i'm studying in FPT University](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this to introduce about my self
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Java / MS SQL Server / HTML / CSS / JS
 
 - 🔭 I’m currently working on this page. 
 
