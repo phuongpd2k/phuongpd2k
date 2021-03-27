@@ -5,7 +5,12 @@
 <p>Skills: VUE JS / REACT / JS / HTML / CSS</p>
 <p>- 🔭 I’m currently working on this page. </p>
 
+<div>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuyfun)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 ![GitHub metrics](https://metrics.lecoq.io/zuyfun)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zuyfun)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zuyfun) 
