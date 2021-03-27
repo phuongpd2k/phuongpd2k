@@ -1,9 +1,9 @@
 <h1 align="center">## Hi there 👋, I'm Duy Phương aka Zuy Fun</h1>
 
 <div align="center">
-<p>I made this to introduce about my self</p>
-<p>Skills: VUE JS / REACT / JS / HTML / CSS</p>
-<p>- 🔭 I’m currently working on this page. </p>
+<p>I made this to introduce about my self.</p>
+<p>Skills: Java / MS SQL Server / JS / HTML / CSS</p>
+<p>- 🔭 I’m currently studying in FPT University. </p>
 
 <div>
   
@@ -11,8 +11,7 @@
 
 </div>
 
-![GitHub metrics](https://metrics.lecoq.io/zuyfun)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zuyfun)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zuyfun) 
+![GitHub metrics](https://metrics.lecoq.io/zuyfun)  
 
 </div>
