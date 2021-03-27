@@ -10,8 +10,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuyfun)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
+<div>
+  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zuyfun)
+
+</div>
+
 ![GitHub metrics](https://metrics.lecoq.io/zuyfun)  
 
 </div>
