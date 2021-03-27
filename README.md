@@ -1,5 +1,5 @@
-## Hi there 👋, my name is Duy Phương
-Now i'm studying in FPT University
+<span style="align:center">## Hi there 👋, my name is Duy Phương</span>
+#Now i'm studying in FPT University
 ![Now i'm studying in FPT University](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this to introduce about my self
