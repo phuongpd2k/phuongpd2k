@@ -14,7 +14,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zuyfun)
 
 </div>
-
-![GitHub metrics](https://metrics.lecoq.io/zuyfun)  
-
 </div>
