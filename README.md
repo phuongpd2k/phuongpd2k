@@ -3,7 +3,7 @@
 <div align="center">
 
 <p>- 🔭 I’m currently studying in FPT University. </p>
-<p>Skills: Java / MS SQL Server / JS / HTML / CSS</p>
+<p>Skills: Java / JavaScript / C# ASP.Net /  MS SQL Server / HTML / CSS</p>
 <div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuyfun)](https://github.com/anuraghazra/github-readme-stats)
