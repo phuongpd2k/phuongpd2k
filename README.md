@@ -39,9 +39,7 @@
 <span><img src="https://img.shields.io/badge/Eclipse%20IDE-282C34?logo=eclipse-ide&logoColor=2C2255" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" /></span>
 &nbsp;
 
-
 <br>
-
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
