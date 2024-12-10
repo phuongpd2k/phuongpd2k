@@ -1,4 +1,9 @@
-<!-- zuyfun -->
-<a href="#" target="_blank">
-  <img src="svg/zuyfun.svg" width="1200" alt="Click to see the source" />
-</a>
+<!-- phuongpd2k -->
+<div align="center">
+	<br>
+	<picture>
+		<source media="(min-width: 720px)" srcset="./svg/card.svg">
+		<img src="./svg/card-small.svg" width="100%" height="400px" alt="hero">
+	</picture>
+	<br>
+</div>
